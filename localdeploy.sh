@@ -1,4 +1,4 @@
-#bundle install
+bundle install
 bundle exec jekyll build
 bundle exec jekyll serve #--watch
 
